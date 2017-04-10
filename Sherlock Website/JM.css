@@ -1,0 +1,33 @@
+body{
+    background-image: url("37.jpg");
+    background-size: cover;
+    
+    
+}
+.para
+{
+    font-family:cursive;
+    font-size: 24px;
+    text-align: left;
+    color:yellow;
+    text-align-last: center;
+    position:relative;
+
+        
+}
+
+#heading{
+    font-size: 60px;
+    font-family:fantasy;
+    align-items: center;
+    color: red;
+    text-align: center;
+    
+}
+img{
+    height:200px;
+    width:200px;
+    position: relative;
+    align-content: none;
+}
+

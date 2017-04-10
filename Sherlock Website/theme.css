@@ -1,0 +1,110 @@
+body{
+    background-image: url("6.jpg");
+    background-size: cover;
+    
+}
+
+/* This is the logo link clickable area */
+#sherlock {
+position: absolute;
+top: 170px;
+left: 15px;
+right:-100px;
+height: 470px;
+width: 360px;
+background-color: transparent;
+
+}
+
+
+#watson {
+position: absolute;
+top: 170px;
+left: 399px;
+right:-100px;
+height: 470px;
+width: 360px;
+background-color: transparent;
+}
+
+#moriarity {
+position: absolute;
+top: 170px;
+left: 775px;
+right:-100px;
+height: 470px;
+width: 360px;
+background-color: transparent;
+                cursor: crosshair;
+
+
+}
+
+#mycroft {
+position: absolute;
+top: 170px;
+left: 1156px;
+right:-100px;
+height: 470px;
+width: 360px;
+background-color: transparent;
+        cursor: zoom-in;
+
+}
+#heading{
+    font-size: 70px;
+    font-family:fantasy;
+    align-items: center;
+    color: red;
+    text-align: center;
+    
+}
+#sh{
+    
+    
+    font-family: cursive;
+    font-size: 30px;
+    position: absolute;
+    top: 590px;
+    right:1220px;
+    text-align: center;
+    align-self: center;
+    color:yellow;
+}
+
+#jw{
+    
+    
+    font-family: cursive;
+    font-size: 30px;
+    position: absolute;
+    top: 590px;
+    left:460px;
+    text-align: center;
+    align-self: center;
+    color:yellow;
+}
+#jm{
+    
+    
+    font-family: cursive;
+    font-size: 30px;
+    position: absolute;
+    top: 590px;
+    left:850px;
+    text-align: center;
+    align-self: center;
+    color:yellow;
+}
+#mh{
+    
+    
+    font-family: cursive;
+    font-size: 30px;
+    position: absolute;
+    top: 590px;
+    left:1230px;
+    text-align: center;
+    align-self: center;
+    color:yellow;
+}
